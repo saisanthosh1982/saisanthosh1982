@@ -1,5 +1,5 @@
 <h1 align="left">Hey there thanks for visiting, I'm Sai Santhosh Chanda</h1>
-<h3 align="left">A passionate Data scientist currently located in Texas,USA</h3>
+<h3 align="left">A passionate Data scientist currently located in Denver, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisanthosh1982&label=Profile%20views&color=0e75b6&style=flat" alt="saisanthosh1982" /> </p>
 
