@@ -3,23 +3,72 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisanthosh1982&label=Profile%20views&color=0e75b6&style=flat" alt="saisanthosh1982" /> </p>
 
-- 🔭 I’m currently working on [Chest disease detection](https://github.com/saisanthosh1982/Chest-Disease-classification-using-Chest-CT-scan-Images)
+### 🚀 About Me
 
-- 🌱 I’m currently learning **ML-OPS**
+I'm a Machine Learning Engineer based in **San Francisco, CA**, focusing on building **production-first AI systems** — from **distributed training to GPU-optimized inference, MLOps workflows, and real-time streaming intelligence.**
 
-- 👯 I’m looking to collaborate on **Deep Learning**
+My recent work spans:
 
-- 🤝 I’m looking for help with **Data Science and Machine learning**
+- 🔐 **Fraud & risk scoring at scale** (billions of transactions/month)
+- 🤖 **LLM-based enterprise copilots & infra**
+- ⚡ **Latency-efficient inference using Triton, ONNX Runtime, GPU sharding**
+- 🧩 **RAG pipelines, orchestration, and LLM observability**
 
-- 👨‍💻 My Portfolio website: [https://saisanthosh1982.github.io/saisanthoshchanda.github.io/](https://saisanthosh1982.github.io/saisanthoshchanda.github.io/)
+I love solving problems where **accuracy matters — but latency and scale matter more.**
 
-- 📝 I regularly write articles on [https://medium.com/@saisanthosh9154](https://medium.com/@saisanthosh9154)
+---
 
-- 💬 Ask me about **Python, SQL, Machine Learning, Deep Learning, ML-OPS**
+### 🧠 Current Focus
 
-- 📫 How to reach me **saisanthoshchanda1982@gmail.com**
+- ⚙️ AI Orchestration & Multi-Agent Systems  
+- 🧱 Optimizing LLM inference for real-world latency  
+- 🛠 Self-monitoring / autonomous ML pipelines  
+- 👀 Model safety, alignment & retrieval evaluation  
 
-- 📄 Check out my resume [https://drive.google.com/file/d/14ffhKRxo22G05z8IexDh0aDwaDTUULOA/view?usp=sharing](https://drive.google.com/file/d/14ffhKRxo22G05z8IexDh0aDwaDTUULOA/view?usp=sharing)
+---
+
+### 📚 I Write About
+
+I share breakdowns, experiments, and engineering notes here:
+
+📎 **Medium:** https://medium.com/@saisanthosh9154
+
+---
+
+### 🛠 Tech Stack
+
+#### Core:
+`Python` · `PyTorch` · `TensorFlow` · `XGBoost` · `Hugging Face` · `LangChain / LangGraph`
+
+#### Infrastructure / Ops:
+`Kubernetes` · `Docker` · `Triton Inference Server` · `ONNX Runtime` · `MLflow` · `Argo Workflows` · `Terraform`
+
+#### Streaming & Data:
+`Kafka` · `Spark Structured Streaming` · `Feast` · `Vector DBs (FAISS | Pinecone | Weaviate)`
+
+#### Cloud:
+`AWS (EKS, SageMaker)` · `GCP VertexAI` · `Azure ML`
+
+---
+
+### 📫 Connect With Me
+
+- ✉️ Email: **saisanthosh0902@gmail.com**
+- 🔗 LinkedIn: *linkedin.com/in/saisanthoshchanda9154*
+- 🧪 Kaggle/GitHub Labs coming soon 👀
+
+---
+
+### ⚡ Fun Fact
+
+I once spent **two days optimizing inference latency… just to reduce it by 4ms.**  
+Worth it. Every. Single. Time. ⚙️🔥
+
+---
+
+### 📌 Featured Projects (coming soon)
+
+🚧 Updating repos & pushing production notebooks... stay tuned 👨‍💻
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
