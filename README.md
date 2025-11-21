@@ -3,23 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisanthosh1982&label=Profile%20views&color=0e75b6&style=flat" alt="saisanthosh1982" /> </p>
 
-- 🔭 I’m currently working on [Chest disease detection](https://github.com/saisanthosh1982/Chest-Disease-classification-using-Chest-CT-scan-Images)
-
-- 🌱 I’m currently learning **ML-OPS**
-
-- 👯 I’m looking to collaborate on **Deep Learning**
-
-- 🤝 I’m looking for help with **Data Science and Machine learning**
-
-- 👨‍💻 My Portfolio website: [https://saisanthosh1982.github.io/saisanthoshchanda.github.io/](https://saisanthosh1982.github.io/saisanthoshchanda.github.io/)
+- 👯 I’m looking to reasearch more on **AI Orchestration and LLMs**
 
 - 📝 I regularly write articles on [https://medium.com/@saisanthosh9154](https://medium.com/@saisanthosh9154)
 
 - 💬 Ask me about **Python, SQL, Machine Learning, Deep Learning, ML-OPS**
 
-- 📫 How to reach me **saisanthoshchanda1982@gmail.com**
-
-- 📄 Check out my resume [https://drive.google.com/file/d/14ffhKRxo22G05z8IexDh0aDwaDTUULOA/view?usp=sharing](https://drive.google.com/file/d/14ffhKRxo22G05z8IexDh0aDwaDTUULOA/view?usp=sharing)
+- 📫 How to reach me **saisanthosh0902@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
